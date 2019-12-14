@@ -49,7 +49,7 @@ function volumeUp(){
 volume.requestUp();
 }
 
-function voulumeDown(){
+function volumeDown(){
   // request system application to decrease audio volume
 volume.requestDown();
 }
